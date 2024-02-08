@@ -1,5 +1,3 @@
-using System.Drawing;
-
 class Game
 {
     // You can customize the map by placing numbers 1 as walls or objects.
