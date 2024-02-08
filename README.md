@@ -1,5 +1,7 @@
 # 3D Game on Console Application (no libraries used)
 
+<h3>This is the final/official version (v1.5)</h3>
+
 <div>
   <img src="https://github.com/Abnersampf/Console-3D-FPS/assets/58574013/57de3064-91ca-4842-91d8-e16f2c6a762e" width="800px"/>
 </div>
