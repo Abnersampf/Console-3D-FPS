@@ -6,7 +6,7 @@
   <img src="https://github.com/Abnersampf/Console-3D-FPS/assets/58574013/0475954e-5cca-4b81-8f6f-5ccd0e08c348" width="800px"/>
 </div>
 
-NOTE: The gif is accelerated, the real game runs at a very low fps rate
+NOTE: The gif is accelerated, the real game runs at a very low fps rate (use UP arrow key to MOVE and LEFT/RIGHT key to look around).
 
 This project is a very important achievement, I never thought I would be able to do something like this. It's not perfect, far from it, but it's an absurd evolution compared to the first console application game I made (the snake game). The snake game has over 530 lines of code and is not at all impressive, whereas this 3D game has 246 lines and is much more complex and cool to see.
 
