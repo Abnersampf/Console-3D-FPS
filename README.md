@@ -1,4 +1,4 @@
-# 3D Game on Console Application (no libraries used)
+# 3D Game on Console Application (no graphics libraries used)
 
 <h3>This is the final/official version (v1.5)</h3>
 
